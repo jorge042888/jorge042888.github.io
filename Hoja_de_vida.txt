@@ -1,0 +1,41 @@
+JORGE ALBERTO GUTIERREZ TORRES
+
+IT Support & Management | Auditoria | Análisis de Datos | IA Aplicada
+
+CONTACTO
+
+Email: jorge042888@gmail.com
+Teléfono: (+57) 3024781168
+
+
+PERFIL PROFESIONAL
+Tecnico en sistemas / Estudiante de Ingeniería de Sistemas con experiencia combinada en soporte y gestión TI, análisis de datos y evaluación de riesgos tecnológicos. He brindado soporte técnico integral a usuarios finales (mantenimiento, configuración, redes) y he participado en la evaluación de procesos e infraestructura TI bajo el marco ISO 27001, identificando riesgos y proponiendo controles. Complemento este perfil con análisis funcional de datos en Excel, Power BI, SQL y Python, y con el uso activo de herramientas de inteligencia artificial (Claude, Ollama, OpenCode) para automatizar tareas técnicas y acelerar el análisis. Usuario de entorno Linux.
+
+HABILIDADES TÉCNICAS
+IT Support & Management: mantenimiento preventivo/correctivo, instalación y configuración de software/hardware, recuperación/clonación de discos, soporte ofimático, diagnóstico de infraestructura TI, gestión de riesgos tecnológicos.
+Análisis de datos: Python (Pandas, NumPy), SQL, Power BI (modelado, editor de consultas, DAX), Excel avanzado.
+IA aplicada: uso de Claude (Anthropic) y OpenCode como agentes para automatización de tareas, documentación técnica y desarrollo; Ollama para ejecución de modelos locales.
+Gestión de riesgos y controles TI: levantamiento de información, evaluación de controles de seguridad, elaboración de hallazgos y recomendaciones bajo ISO 27001 (apoyado en IA).
+Entorno: Linux, VS Code, Cursor.
+
+
+EXPERIENCIA LABORAL
+Gonzalo Millán C. y Asociados — Actualmente
+
+Evalúo infraestructura, procesos y controles de seguridad de la información en organizaciones cliente, bajo el marco ISO 27001. Identifico riesgos tecnológicos y operativos, y traduzco los hallazgos en informes y recomendaciones de mejora para los equipos de TI. Este rol me ha dado visión transversal de cómo se gestionan y aseguran los sistemas de información en distintos entornos.
+Independiente — Soporte T.I (2020 - 2022)
+
+Brindé soporte técnico integral a usuario final: mantenimiento preventivo y correctivo, instalación y configuración de software/hardware, y recuperación/clonación de unidades de almacenamiento. Desarrollé reportes de gestión y di capacitación funcional en Excel orientada a productividad, fortaleciendo mi experiencia directa en soporte y gestión de equipos TI.
+
+FORMACIÓN ACADÉMICA
+Ingeniería de Sistemas — [nombre de la universidad / semestre actual o fecha estimada de grado]
+
+IDIOMAS
+
+Español: nativo
+Inglés: B1
+
+
+REFERENCIAS
+
+Disponibles a solicitud
