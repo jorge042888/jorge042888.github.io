@@ -105,13 +105,26 @@ sections.forEach((section) => navObserver.observe(section));
 // Mobile sidebar toggle
 const navToggle = document.getElementById("navToggle");
 const sidebar = document.getElementById("sidebar");
+const navBackdrop = document.getElementById("navBackdrop");
+
+function openSidebar() {
+  sidebar.classList.add("open");
+  navBackdrop.classList.add("show");
+  navToggle.textContent = "✕";
+}
+
+function closeSidebar() {
+  sidebar.classList.remove("open");
+  navBackdrop.classList.remove("show");
+  navToggle.textContent = "☰";
+}
 
 navToggle.addEventListener("click", () => {
-  sidebar.classList.toggle("open");
+  sidebar.classList.contains("open") ? closeSidebar() : openSidebar();
 });
 
+navBackdrop.addEventListener("click", closeSidebar);
+
 navLinks.forEach((link) => {
-  link.addEventListener("click", () => {
-    sidebar.classList.remove("open");
-  });
+  link.addEventListener("click", closeSidebar);
 });
