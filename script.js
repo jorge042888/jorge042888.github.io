@@ -1,9 +1,18 @@
+// Avatar image fallback (replaces inline onerror handler)
+const avatarImg = document.querySelector(".hero-avatar img");
+if (avatarImg) {
+  avatarImg.addEventListener("error", () => {
+    avatarImg.style.display = "none";
+    avatarImg.nextElementSibling.style.display = "flex";
+  }, { once: true });
+}
+
 // Typing effect for rotating role line
 const roles = [
-  "IT Support & Management",
-  "Auditoria de Sistemas",
+  "Riesgos & Auditoría TI",
   "Análisis de Datos",
-  "IA Aplicada"
+  "IA Aplicada",
+  "IT Support & Management"
 ];
 
 const typedEl = document.getElementById("typed");
@@ -59,6 +68,10 @@ function typeCardTitle(card) {
   const fullText = textEl.dataset.fullText || textEl.textContent;
   textEl.dataset.fullText = fullText;
 
+  const maxRepeats = 3;
+  let repeats = 0;
+  let intervalId;
+
   function runTyping() {
     textEl.textContent = "";
     titleEl.classList.add("typing");
@@ -74,10 +87,15 @@ function typeCardTitle(card) {
       }
     }
     step();
+
+    repeats++;
+    if (repeats >= maxRepeats) {
+      clearInterval(intervalId);
+    }
   }
 
   runTyping();
-  setInterval(runTyping, 5000);
+  intervalId = setInterval(runTyping, 5000);
 }
 
 // Highlight active section in sidebar nav
