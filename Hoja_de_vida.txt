@@ -9,12 +9,12 @@ Teléfono: (+57) 3024781168
 
 
 PERFIL PROFESIONAL
-Técnico en sistemas / Estudiante de Ingeniería de Sistemas con experiencia combinada en soporte y gestión TI, análisis de datos y evaluación de riesgos tecnológicos. He brindado soporte técnico integral a usuarios finales (mantenimiento, configuración, redes) y he participado en la evaluación de procesos e infraestructura TI bajo el marco ISO 27001, identificando riesgos y proponiendo controles. Complemento este perfil con análisis funcional de datos en Excel, Power BI, SQL y Python, y con el uso activo de herramientas de inteligencia artificial (Claude, Ollama, OpenCode) para automatizar tareas técnicas y acelerar el análisis. Usuario de entorno Linux.
+Técnico en sistemas / Estudiante de Ingeniería de Sistemas con experiencia combinada en soporte y gestión TI, análisis de datos y evaluación de riesgos tecnológicos. He brindado soporte técnico integral a usuarios finales (mantenimiento, configuración, redes) y he participado en la evaluación de procesos e infraestructura TI bajo el marco ISO 27001, identificando riesgos y proponiendo controles. Complemento este perfil con análisis funcional de datos en Excel, Power BI, SQL y Python, y con el uso activo de herramientas de inteligencia artificial (Claude, ChatGPT Business, OpenCode) para automatizar tareas técnicas y acelerar el análisis. Usuario de entorno Linux.
 
 HABILIDADES TÉCNICAS
 IT Support & Management: mantenimiento preventivo/correctivo, instalación y configuración de software/hardware, diagnóstico de infraestructura TI, gestión de riesgos tecnológicos.
 Análisis de datos: Python, SQL, Excel avanzado.
-IA aplicada: uso de Claude (Anthropic) y OpenCode como agentes para automatización de tareas, documentación técnica y desarrollo; Ollama para ejecución de modelos locales.
+IA aplicada: uso de Claude (Anthropic) y OpenCode como agentes para automatización de tareas, documentación técnica y desarrollo; administración de ChatGPT Business (cuentas, usuarios, grupos y políticas de uso).
 Gestión de riesgos y controles TI: levantamiento de información, evaluación de controles de seguridad, elaboración de hallazgos y recomendaciones bajo ISO 27001 (apoyado en IA).
 Entorno: Linux, VSCode.
 
